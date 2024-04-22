@@ -1,0 +1,23 @@
+background images;
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" href="style.css">
+
+<h1>Sujay Langade</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta neque nisi qui inventore repudiandae tempora eaque laudantium, laboriosam exercitationem doloremque maxime quibusdam, ullam aliquam dolorum reprehenderit veniam facere iusto.</p>
+</body>
+</html>
+
+
+style.css
+
+body{
+    background-image: url(images/background_image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    }
